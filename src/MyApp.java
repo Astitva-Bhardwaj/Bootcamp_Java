@@ -1,7 +1,5 @@
-// MyApp.java
-;
-import com.sun.javafx.fxml.expression.BinaryExpression;
 
+import com.sun.javafx.fxml.expression.BinaryExpression;
 import static com.sun.javafx.fxml.expression.Expression.multiply;
 import static com.sun.org.apache.xalan.internal.lib.ExsltMath.power;
 
